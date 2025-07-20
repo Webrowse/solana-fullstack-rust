@@ -1,0 +1,6 @@
+[submodule "on-chain"]
+	path = on-chain
+	url = git@github.com:Webrowse/solana-raw.git
+[submodule "client"]
+	path = client
+	url = git@github.com:Webrowse/solana-vault-client.git
